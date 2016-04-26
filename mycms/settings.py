@@ -123,3 +123,5 @@ CKEDITOR_CONFIGS = {
         'height': 600,
     }
 }
+
+SITE_HEADER = 'MyCMS'
